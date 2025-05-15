@@ -1,0 +1,2 @@
+[console_scripts]
+recon = recon.app:main
